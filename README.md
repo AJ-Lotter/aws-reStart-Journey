@@ -4,7 +4,6 @@ Welcome!
 This repository documents my learning journey through the **AWS re/Start program** and beyond.  
 The goal is to showcase skills and share knowledge with anyone interested in cloud computing, AWS, and IT fundamentals.
 
----
 
 ## 🌍 About AWS re/Start
 AWS re/Start is a full-time, classroom-based training program that prepares individuals for careers in cloud computing.  
@@ -17,7 +16,15 @@ The program covers:
 - Infrastructure as Code (IaC) & Automation  
 - Professional & Career Readiness Skills  
 
----
+
+## Repo Contents
+
+- [Certifications](./certifications/README.md)
+- [Projects](./projects/README.md)
+- [Compute](./sections/compute/topic-content.md)
+- [Databases](./sections/databases/topic-content.md)
+- [Networking](./sections/networking/topic-content.md)
+- [Storage](./sections/storage/topic-content.md)
 
 ## 📑 Course Agenda & Topics  
 
@@ -99,9 +106,3 @@ The program covers:
 
 </details>
 
----
-
-## Repo Contents
-
-- [Certifications](./certifications/README.md)
-- [Projects](./projects/README.md)
