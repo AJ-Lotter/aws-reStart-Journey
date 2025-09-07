@@ -1,4 +1,4 @@
-# My re/Start Graduate Journey
+# My re/Start Journey
 
 Welcome!  
 This repository documents my learning journey through the **AWS re/Start program** and beyond.  
