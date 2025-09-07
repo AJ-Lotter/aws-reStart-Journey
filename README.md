@@ -32,7 +32,6 @@ The program covers:
   - AWS & Pricing Fundamentals  
   - AWS Infrastructure Overview  
   - AWS Services & Categories  
-  - Shared Responsibility Model  
 
 </details>
 
