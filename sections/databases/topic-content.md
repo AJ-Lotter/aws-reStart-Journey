@@ -77,10 +77,8 @@ This module introduces database fundamentals, SQL basics, and AWS database servi
 <details>
 <summary>✅ Labs & Activities Completed</summary>
  
-- [160-[DF]-Lab – Build Your Database Server and Interact with Your DB Using an App]()  
-- [274-[DF]-Lab – Introduction to Amazon Aurora]()
-- [275-[DF]-Lab – Introduction to Amazon DynamoDB]()  
-- [162-[DF]-Lab – [Challenge] Build and Access an RDS Server]()
-- [179-[JAWS]-Activity – Migrate to Amazon RDS]() 
+- [160-[DF]-Lab – Build Your Database Server and Interact with Your DB Using an App](./labs/lab-160.md)  
+- [274-[DF]-Lab – Introduction to Amazon Aurora](./labs/lab-274.md)
+- [275-[DF]-Lab – Introduction to Amazon DynamoDB](./labs/lab-275.md)  
 
 </details>

@@ -151,14 +151,9 @@ This module covers compute services on AWS, from traditional server hosting to m
 <details>
 <summary>✅ Labs & Activities Completed</summary>
 
-- [170-[JAWS]-Activity – Create a Website on S3]()  
-- [171-[JAWS]-Lab – Creating Amazon EC2 Instances]()  
-- [172-[JAWS]-Lab – [Challenge] EC2 Instance Exercise]()  
-- [173-[JAWS]-Activity – Troubleshoot Create Instance]() 
-- [178-[JAWS]-Activity – Working with AWS Lambda]() 
-- [177-[JAWS]-Lab – [Challenge] AWS Lambda Exercise]()
-- [174-[JAWS]-Lab – Scale and Load Balance your Architecture]()
-- [175-[JAWS]-Lab – Using Auto Scaling in AWS (Linux)]()
-- [176-[JAWS]-Activity – Route 53 Failover Routing]() 
+- [170-[JAWS]-Activity – Create a Website on S3](./labs/lab-170.md)  
+- [171-[JAWS]-Lab – Creating Amazon EC2 Instances](./labs/lab-171.md)  
+- [178-[JAWS]-Activity – Working with AWS Lambda](./labs/lab-178.md) 
+- [174-[JAWS]-Lab – Scale and Load Balance your Architecture](./labs/lab-174.md)
 
 </details>
