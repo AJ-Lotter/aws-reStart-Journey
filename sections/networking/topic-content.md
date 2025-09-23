@@ -49,10 +49,4 @@ This module introduces AWS networking fundamentals, services, and how to design,
 
 ---
 
-<details>
-<summary>✅ Labs & Activities Completed</summary>
 
-- [180-[JAWS]-Lab – Configuring an Amazon VPC]()  
-- [181-[JAWS]-Activity – Troubleshoot a VPC]()  
-
-</details>

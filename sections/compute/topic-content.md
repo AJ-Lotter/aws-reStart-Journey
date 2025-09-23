@@ -4,8 +4,6 @@ This module covers compute services on AWS, from traditional server hosting to m
 
 ---
 
-
-
 <details>
 <summary>Amazon Elastic Compute Cloud (EC2)</summary>
 
