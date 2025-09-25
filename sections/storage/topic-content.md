@@ -102,12 +102,10 @@ This module covers AWS storage services, their use cases, and how they integrate
 
 ---
 
+
 <details>
 <summary>✅ Labs & Activities Completed</summary>
-
-- [182-[JAWS]-Lab – Working with Amazon EBS]() 
-- [183-[JAWS]-Lab – Managing Storage]()
-- [184-[JAWS]-Lab – [Challenge] S3 Exercise]()  
-- [185-[JAWS]-Activity – Work with Amazon S3]()  
+ 
+- [182 - Lab - Working with Amazon EBS](./labs/lab-182.md) 
 
 </details>
