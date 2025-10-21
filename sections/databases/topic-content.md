@@ -75,7 +75,7 @@ This module introduces database fundamentals, SQL basics, and AWS database servi
 ---
 
 <details>
-<summary>✅ Labs & Activities Completed</summary>
+<summary> Labs & Activities Completed</summary>
  
 - [160-[DF]-Lab – Build Your Database Server and Interact with Your DB Using an App](./labs/lab-160.md)  
 - [274-[DF]-Lab – Introduction to Amazon Aurora](./labs/lab-274.md)

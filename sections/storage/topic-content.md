@@ -104,7 +104,7 @@ This module covers AWS storage services, their use cases, and how they integrate
 
 
 <details>
-<summary>✅ Labs & Activities Completed</summary>
+<summary> Labs & Activities Completed</summary>
  
 - [182 - Lab - Working with Amazon EBS](./labs/lab-182.md) 
 

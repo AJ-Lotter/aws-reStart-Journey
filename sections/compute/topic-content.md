@@ -147,7 +147,7 @@ This module covers compute services on AWS, from traditional server hosting to m
 ---
 
 <details>
-<summary>✅ Labs & Activities Completed</summary>
+<summary> Labs & Activities Completed</summary>
 
 - [170-[JAWS]-Activity – Create a Website on S3](./labs/lab-170.md)  
 - [171-[JAWS]-Lab – Creating Amazon EC2 Instances](./labs/lab-171.md)  

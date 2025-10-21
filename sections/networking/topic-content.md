@@ -50,7 +50,7 @@ This module introduces AWS networking fundamentals, services, and how to design,
 ---
 
 <details>
-<summary>✅ Labs & Activities Completed</summary>
+<summary> Labs & Activities Completed</summary>
  
 - [180 - Lab - Configuring an Amazon VPC](./labs/lab-180.md) 
 

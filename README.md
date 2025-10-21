@@ -5,7 +5,7 @@ This repository documents my learning journey through the **AWS re/Start program
 The goal is to showcase skills and share knowledge with anyone interested in cloud computing, AWS, and IT fundamentals.
 
 
-## 🌍 About AWS re/Start
+##  About AWS re/Start
 AWS re/Start is a full-time, classroom-based training program that prepares individuals for careers in cloud computing.  
 The program covers:
 - Linux & System Administration  
@@ -26,7 +26,7 @@ The program covers:
 - [Networking](./sections/networking/topic-content.md)
 - [Storage](./sections/storage/topic-content.md)
 
-## 📑 Course Agenda & Topics  
+##  Course Agenda & Topics  
 
 <details>
 <summary>Cloud Foundations</summary>
